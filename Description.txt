@@ -9,4 +9,4 @@ Functionalities:
 7. Control the volume
 8. Search track 
 9. Click on track-cover and go to the Youtube music-video
-
+10. Control the current time playing of a track
