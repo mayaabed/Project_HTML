@@ -1,0 +1,11 @@
+We will create a music player with a user interface that can be used to play music in the browser.
+Functionalities:
+1. Upload a track with its src property
+2. Button play
+3. Button pause
+4. Button nextTrack
+5. Button prevTrack
+6. Show the current time playing of a track
+7. Control the volume
+8. Search track 
+
