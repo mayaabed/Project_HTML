@@ -8,4 +8,5 @@ Functionalities:
 6. Show the current time playing of a track
 7. Control the volume
 8. Search track 
+9. Click on track-cover and go to the Youtube music-video
 
